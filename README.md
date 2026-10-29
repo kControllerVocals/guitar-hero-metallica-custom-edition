@@ -1,6 +1,6 @@
 # guitar-hero-metallica-custom-edition
 
-a custom edition of guitar hero world tour stripped out of all songs and prepared for customs
+a custom edition of guitar hero metallica stripped out of all songs and prepared for customs
 
 Features:
 	
